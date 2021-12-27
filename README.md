@@ -1,0 +1,1 @@
+# mysql-change-auth-socket
